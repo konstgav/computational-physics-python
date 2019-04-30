@@ -16,7 +16,8 @@ Jupyter notebooks and python codes for computational physics
 8. Несобственные интегралы.
 9. Решение обыкновенных дифферциальных уравнений. Метод Эйлера. Фильтр низких частот.
 10. [Решение обыкновенных дифферциальных уравнений. Модель Лотки-Вольтерры](https://github.com/konstgav/computational-physics-python/blob/master/ode.ipynb)
-11. [Решение обыкновенных дифферциальных уравнений. Колебания маятника](https://github.com/konstgav/computational-physics-python/blob/master/Pendulum.ipynb)
-12. Краевые задачи. Уравнение Пуассона для потенциала.
-13. Системы линейных уравнений. Правила Кирхгофа.
-14. Преобразование Фурье
+11. [Решение обыкновенных дифферциальных уравнений. Затухающие колебания маятника. Мультипликаторы](https://github.com/konstgav/computational-physics-python/blob/master/Pendulum.ipynb)
+12. [Уравнение Матье. Параметрический резонанс](https://github.com/konstgav/computational-physics-python/blob/master/mathieu.ipynb)
+13. Краевые задачи. Уравнение Пуассона для потенциала.
+14. Системы линейных уравнений. Правила Кирхгофа.
+15. Преобразование Фурье
