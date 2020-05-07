@@ -7,7 +7,7 @@
 ## Содержание
 
 1. [Введение в ipython и Jupyter notebooks.](https://github.com/konstgav/computational-physics-python/blob/master/Jupyter-notebook-intro.ipynb)
-2. Массивы numpy.
+2. [Массивы numpy.](https://github.com/konstgav/computational-physics-python/blob/master/Arrays.ipynb)
 3. Функции, циклы.
 4. [Графика matplotlib. Силовые линии и эквипотенциальные поверхности.](https://github.com/konstgav/computational-physics-python/blob/master/Plotting.ipynb)
 5. Графика matplotlib. Фрактал Мандельброта
