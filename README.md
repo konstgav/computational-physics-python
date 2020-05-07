@@ -9,8 +9,8 @@
 1. [Введение в ipython и Jupyter notebooks.](https://github.com/konstgav/computational-physics-python/blob/master/Jupyter-notebook-intro.ipynb)
 2. [Массивы numpy.](https://github.com/konstgav/computational-physics-python/blob/master/Arrays.ipynb)
 3. Функции, циклы.
-4. [Графика matplotlib. Силовые линии и эквипотенциальные поверхности.](https://github.com/konstgav/computational-physics-python/blob/master/Plotting.ipynb)
-5. [Графика matplotlib. Фрактал Мандельброта.](https://github.com/konstgav/computational-physics-python/blob/master/Mandelbrot.ipynb)
+4. [Базовая графика с matplotlib.](https://github.com/konstgav/computational-physics-python/blob/master/Plotting.ipynb)
+5. [Продвинутая графика с matplotlib. Электрическое поле. Фрактал Мандельброта.](https://github.com/konstgav/computational-physics-python/blob/master/Complex-visualization.ipynb)
 6. Точность вычислений, машинное представление чисел.
 7. [Решение нелинейных уравнений.](https://github.com/konstgav/computational-physics-python/blob/master/Nonlinear-equations.ipynb)
 8. Численное интегрирование. Метод трапеций, метод Симпсона.
