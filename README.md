@@ -22,7 +22,8 @@
 14. Краевые задачи. Уравнение Пуассона для потенциала.
 15. [Системы линейных уравнений. Правила Кирхгофа.](https://github.com/konstgav/computational-physics-python/blob/master/Systems-of-Linear-Equations.ipynb)
 16. [Преобразование Фурье.](https://github.com/konstgav/computational-physics-python/blob/master/Fourier.ipynb)
-17. [Метод Монте-Карло. Задача об игле Бюффона.](https://github.com/konstgav/computational-physics-python/blob/master/Buffon-needle.ipynb)
+17. [Cтатистические методы и метод Монте-Карло](https://github.com/konstgav/computational-physics-python/blob/master/Random.ipynb)
+18. [Метод Монте-Карло. Задача об игле Бюффона.](https://github.com/konstgav/computational-physics-python/blob/master/Buffon-needle.ipynb)
 
 ## Дижитал стек для физиков
 
