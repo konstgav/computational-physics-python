@@ -20,5 +20,5 @@ Jupyter ноутбуки, иллюстрирующие некоторые зад
 12. [Решение обыкновенных дифферциальных уравнений. Затухающие колебания маятника. Мультипликаторы](https://github.com/konstgav/computational-physics-python/blob/master/Pendulum.ipynb)
 13. [Уравнение Матье. Параметрический резонанс](https://github.com/konstgav/computational-physics-python/blob/master/mathieu.ipynb)
 14. Краевые задачи. Уравнение Пуассона для потенциала.
-15. [Системы линейных уравнений. Правила Кирхгофа.](https://github.com/konstgav/computational-physics-python/blob/master/Systems-on-Linear Equations.ipynb)
+15. [Системы линейных уравнений. Правила Кирхгофа.](https://github.com/konstgav/computational-physics-python/blob/master/Systems-of-Linear-Equations.ipynb)
 16. Преобразование Фурье
