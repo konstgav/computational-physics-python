@@ -8,7 +8,7 @@
 
 1. [Введение в ipython и Jupyter notebooks.](https://github.com/konstgav/computational-physics-python/blob/master/Jupyter-notebook-intro.ipynb)
 2. [Массивы numpy.](https://github.com/konstgav/computational-physics-python/blob/master/Arrays.ipynb)
-3. Функции, циклы.
+3. [Функции, циклы.](https://github.com/konstgav/computational-physics-python/blob/master/Functions-cycles.ipynb)
 4. [Базовая графика с matplotlib.](https://github.com/konstgav/computational-physics-python/blob/master/Plotting.ipynb)
 5. [Продвинутая графика с matplotlib. Электрическое поле. Фрактал Мандельброта.](https://github.com/konstgav/computational-physics-python/blob/master/Complex-visualization.ipynb)
 6. Точность вычислений, машинное представление чисел.
@@ -16,12 +16,12 @@
 8. Численное интегрирование. Метод трапеций, метод Симпсона.
 9. Несобственные интегралы.
 10. [Решение обыкновенных дифферциальных уравнений. Метод Эйлера. Фильтр низких частот.](https://github.com/konstgav/computational-physics-python/blob/master/Odinary-differential-equation-exercises.ipynb)
-11. [Решение обыкновенных дифферциальных уравнений. Модель Лотки-Вольтерры](https://github.com/konstgav/computational-physics-python/blob/master/ode.ipynb)
+11. [Решение обыкновенных дифферциальных уравнений. Модель Лотки-Вольтерры](https://github.com/konstgav/computational-physics-python/blob/master/Volterra-Lotka.ipynb)
 12. [Решение обыкновенных дифферциальных уравнений. Затухающие колебания маятника. Мультипликаторы](https://github.com/konstgav/computational-physics-python/blob/master/Pendulum.ipynb)
 13. [Уравнение Матье. Параметрический резонанс](https://github.com/konstgav/computational-physics-python/blob/master/mathieu.ipynb)
 14. Краевые задачи. Уравнение Пуассона для потенциала.
 15. [Системы линейных уравнений. Правила Кирхгофа.](https://github.com/konstgav/computational-physics-python/blob/master/Systems-of-Linear-Equations.ipynb)
-16. Преобразование Фурье
+16. [Преобразование Фурье.](https://github.com/konstgav/computational-physics-python/blob/master/Fourier.ipynb)
 17. [Метод Монте-Карло. Задача об игле Бюффона.](https://github.com/konstgav/computational-physics-python/blob/master/Buffon-needle.ipynb)
 
 ## Дижитал стек для физиков
